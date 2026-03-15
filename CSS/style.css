@@ -1,0 +1,28 @@
+.controls {
+    display: flex;
+    align-items: flex-end;
+    gap: 24px;
+    margin-bottom: 12px;
+}
+
+#sort {
+    border: 2px solid rgb(226, 224, 224);
+    padding: 8px;
+}
+
+form h2 {
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+		background-color: rgb(237, 237, 237);
+}
+
+th, td {
+    border: 2px solid rgb(226, 224, 224);
+    padding: 6px 10px;
+}
+th {
+    background-color: rgb(200, 199, 199);
+}
